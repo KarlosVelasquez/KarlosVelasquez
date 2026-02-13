@@ -1,73 +1,81 @@
-# 🌌 Karlos Velásquez — Full Stack Developer
+# 🌌⚡ Karlos Velásquez — LEGENDARY Full Stack Engineer ⚡🌌
 
 <div align="center">
 
-<!-- 🧠 Ultra Pro Animated Banner -->
+<!-- 🧬 LEGEND Banner -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,25:203a43,50:2c5364,75:1c92d2,100:f2fcfe&height=250&section=header&text=Karlos%20Velásquez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20GSAP%20Specialist&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:0f2027,40:203a43,60:2c5364,80:1c92d2,100:00f7ff&height=280&section=header&text=Karlos%20Velásquez&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Legendary%20Full%20Stack%20Engineer%20%7C%20GSAP%20Architect&descAlignY=62" width="100%" />
 
 <br>
 
-<!-- Typing Animation -->
+<!-- ⌨️ Legendary Typing -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;GSAP+%2B+Creative+Animations;React+%7C+Node+%7C+.NET;Building+Modern+Web+Experiences;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2600&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Legendary+Full+Stack+Engineer;GSAP+%2B+Creative+Development+Master;React+%7C+Node+%7C+.NET+Architect;Building+Immersive+Web+Experiences;Code+Hard+%E2%80%A2+Animate+Everything+%E2%80%A2+Ship+Fast" />
 
 <br><br>
 
-<!-- Profile Views -->
+<!-- 🧿 Counters -->
 
-<img src="https://komarev.com/ghpvc/?username=karlosVelasquez&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=karlosVelasquez&label=Profile%20Views&color=00f7ff&style=flat" />
+<img src="https://img.shields.io/github/followers/karlosVelasquez?style=social" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+# 🧠 Legendary Neural Profile
 
-💻 Full Stack Developer
-🎨 Especialista en animaciones avanzadas con GSAP
-🚀 Desarrollo de SPAs modernas y escalables
-📚 Preparación intensiva para entrevistas técnicas
-🎯 Objetivo: Software Engineer profesional
+```diff
++ Full Stack Software Engineer
++ GSAP Animation Architect
++ SPA Systems Builder
++ React + .NET Specialist
++ Creative Developer
++ Future Senior Engineer
+```
 
 ---
 
-## ⚡ Tech Arsenal
+# ⚡ Tech Galaxy
 
 ### 🖥️ Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge\&logo=javascript)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge\&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge\&logo=react)
 
-### 🎬 Animations
+### 🎬 Animation Engine
 
-![GSAP](https://img.shields.io/badge/GSAP-0d1117?style=for-the-badge\&logo=greensock)
-![ScrollTrigger](https://img.shields.io/badge/ScrollTrigger-0d1117?style=for-the-badge\&logo=greensock)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0d1117?style=for-the-badge\&logo=framer)
+![GSAP](https://img.shields.io/badge/GSAP-000000?style=for-the-badge\&logo=greensock)
+![ScrollTrigger](https://img.shields.io/badge/ScrollTrigger-000000?style=for-the-badge\&logo=greensock)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-000000?style=for-the-badge\&logo=framer)
 
 ### 🧩 Backend
 
-![NodeJS](https://img.shields.io/badge/NodeJS-0d1117?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge\&logo=express)
-![CSharp](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge\&logo=c-sharp)
-![.NET](https://img.shields.io/badge/.NET-0d1117?style=for-the-badge\&logo=dotnet)
+![NodeJS](https://img.shields.io/badge/NodeJS-000000?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
+![CSharp](https://img.shields.io/badge/C%23-000000?style=for-the-badge\&logo=c-sharp)
+![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge\&logo=dotnet)
 
-### 🗄️ Database
+### 🗄️ Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge\&logo=mongodb)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-0d1117?style=for-the-badge\&logo=microsoft-sql-server)
-
-### 🛠️ Tools
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge\&logo=visual-studio-code)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge\&logo=mongodb)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge\&logo=microsoft-sql-server)
 
 ---
 
-## 🐍 Contribution Snake
+# 🌃 Skyline Visual Layer
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+</div>
+
+---
+
+# 🐍 Legendary Contribution Snake
 
 <div align="center">
 
@@ -77,19 +85,19 @@
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics Core
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=karlosVelasquez&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=karlosVelasquez&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlosVelasquez&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlosVelasquez&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🔥 Streak Stats
+# 🔥 Activity Reactor
 
 <div align="center">
 
@@ -99,7 +107,7 @@
 
 ---
 
-## 🏆 Achievements
+# 🏆 Legendary Achievement System
 
 <div align="center">
 
@@ -109,21 +117,31 @@
 
 ---
 
-## 🚀 Featured Projects
-
-🔹 SPA Gestión de Eventos
-🔹 CRUD Full Stack (Express + MongoDB)
-🔹 Sistema de Autenticación
-🔹 React + .NET Apps
-🔹 Landing Pages Animadas con GSAP
-
----
-
-## 🌐 Connect
+# 🎧 Coding Vibes — Now Playing
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github)](https://github.com/karlosVelasquez)
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=kabe_2459&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00f7ff&bar_color_cover=false" />
+
+</div>
+
+---
+
+# 🚀 Legendary Creations
+
+🔹 Event Management SPA
+🔹 Full Stack CRUD Platforms
+🔹 Authentication Systems
+🔹 React + .NET Architectures
+🔹 GSAP Immersive Landing Pages
+
+---
+
+# 🌐 Digital Presence
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github)](https://github.com/karlosVelasquez)
 
 </div>
 
@@ -131,7 +149,6 @@
 
 <div align="center">
 
-✨ Code • Animate • Innovate ✨
+# 🧬 "Legend Status Unlocked — Code • Animate • Dominate" 🧬
 
 </div>
-
