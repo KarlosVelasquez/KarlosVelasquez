@@ -5,10 +5,10 @@
 <!-- ==================== HERO BANNER ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:070707,50:252525,65:070707,100:000000&height=360&section=header&text=Karlos%20Velasquez&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20AI%20Tools%20Enthusiast&descSize=18&descAlignY=58&descAlign=50&fontAlign=50&descColor=888888" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:070707,50:252525,65:070707,100:000000&height=280&section=header&text=Karlos%20Velasquez&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20AI%20Tools%20Enthusiast&descSize=16&descAlignY=56&descAlign=50&fontAlign=50&descColor=888888" width="100%" />
 </p>
 <!-- ==================== SPOTIFY ==================== -->
-<h2 align="center">🎧 &nbsp; Now Playing</h2>
+
 
 <p align="center">
   <a href="https://open.spotify.com/user/Deko">
@@ -16,13 +16,9 @@
   </a>
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:cccccc,100:ffffff&height=3&section=footer" width="100%" /></p>
-
 <!-- ==================== SNAKE ==================== -->
 
 <h2 align="center">🐍 &nbsp; Contribution Graph</h2>
-
-<br/>
 
 <p align="center">
   <picture>
@@ -40,17 +36,6 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" />
 </h2>
 
-<br/>
-
-<p align="center">
-  <a href="https://github.com/KarlosVelasquez">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=KarlosVelasquez&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=aaaaaa&ring_color=ffffff" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/KarlosVelasquez">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarlosVelasquez&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&langs_count=8" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/KarlosVelasquez">
@@ -65,21 +50,6 @@
 </p>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:cccccc,100:ffffff&height=3&section=footer" width="100%" /></p>
-
-<!-- ==================== TROPHIES ==================== -->
-
-<h2 align="center">🏆 &nbsp; Achievements</h2>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/KarlosVelasquez?style=for-the-badge&label=Followers&color=0d1117&labelColor=0d1117&logo=github&logoColor=ffffff" />
-  <img src="https://img.shields.io/github/stars/KarlosVelasquez/KarlosVelasquez?style=for-the-badge&label=Profile%20Stars&color=0d1117&labelColor=0d1117&logo=github&logoColor=ffffff" />
-  <img src="https://img.shields.io/github/last-commit/KarlosVelasquez/KarlosVelasquez?style=for-the-badge&label=Last%20Update&color=0d1117&labelColor=0d1117&logo=git&logoColor=ffffff" />
-</p>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:cccccc,100:ffffff&height=3&section=footer" width="100%" /></p>
-
 
 <!-- ==================== TECH STACK ==================== -->
 
@@ -96,17 +66,13 @@
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" /></a>
   <a href="#"><img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" /></a>
 </p>
 
 <!-- Styling & UI -->
 <h3 align="center">Styling & UI</h3>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=CC6699" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Styled_Components-000000?style=for-the-badge&logo=styledcomponents&logoColor=DB7093" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=ffffff" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=7952B3" /></a>
+ <a href="#"><img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=7952B3" /></a>
 </p>
 
 <!-- Backend & Tools -->
@@ -114,20 +80,21 @@
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffffff" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=swagger&logoColor=85EA2D" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=239120" /></a>
   <a href="#"><img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28" /></a>
   <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" /></a>
 </p>
 
 <!-- UI/UX Design -->
 <h3 align="center">UI/UX Design</h3>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Adobe_XD-000000?style=for-the-badge&logo=adobexd&logoColor=FF61F6" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=00C4CC" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Storybook-000000?style=for-the-badge&logo=storybook&logoColor=FF4785" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Draw.io-000000?style=for-the-badge&logo=diagramsdotnet&logoColor=F08705" /></a>
 </p>
 
 <!-- AI Tools -->
@@ -156,7 +123,7 @@
 
 <!-- Skill Icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,sass,nodejs,express,python,mongodb,firebase,postgres,git,github,vercel,docker,vscode,figma&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nodejs,express,cs,mongodb,firebase,postgres,mysql,postman,figma,git,github,vercel,netlify,docker,vscode&perline=10&theme=dark" />
 </p>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:cccccc,100:ffffff&height=3&section=footer" width="100%" /></p>
