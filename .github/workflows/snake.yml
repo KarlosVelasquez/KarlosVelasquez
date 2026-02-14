@@ -1,0 +1,42 @@
+name: Generate Snake Animation
+
+on:
+  # Ejecutar automáticamente cada 12 horas
+  schedule:
+    - cron: "0 */12 * * *"
+  
+  # Permitir ejecución manual desde la pestaña Actions
+  workflow_dispatch:
+  
+  # Ejecutar cuando se hace push a main
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Generate Snake Game
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: KarlosVelasquez
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=cyan&color_dots=#00ffff,#ff00ff,#8b00ff,#0d1117
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
