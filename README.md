@@ -7,50 +7,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:070707,50:252525,65:070707,100:000000&height=280&section=header&text=Karlos%20Velasquez&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20AI%20Tools%20Enthusiast&descSize=16&descAlignY=56&descAlign=50&fontAlign=50&descColor=888888" width="100%" />
 </p>
-<!-- ==================== SPOTIFY ==================== -->
-
-
-<p align="center">
-  <a href="https://open.spotify.com/user/Deko">
-    <img src="https://novatorem-qg6u89gbe-kabe25032002-8791s-projects.vercel.app" alt="Spotify Now Playing" />
-  </a>
-</p>
-
-<!-- ==================== SNAKE ==================== -->
-
-<h2 align="center">🐍 &nbsp; Contribution Graph</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarlosVelasquez/KarlosVelasquez/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KarlosVelasquez/KarlosVelasquez/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/KarlosVelasquez/KarlosVelasquez/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</p>
-
-<!-- ==================== GITHUB ANALYTICS ==================== -->
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" />
-  &nbsp; GitHub Analytics &nbsp;
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" />
-</h2>
-
-
-<p align="center">
-  <a href="https://github.com/KarlosVelasquez">
-    <img src="https://streak-stats.demolab.com?user=KarlosVelasquez&hide_border=true&background=0d1117&ring=ffffff&fire=cccccc&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=cccccc&sideNums=cccccc&dates=444444&stroke=222222" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/KarlosVelasquez">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarlosVelasquez&bg_color=0d1117&color=888888&line=ffffff&point=cccccc&area=true&area_color=333333&hide_border=true&custom_title=Contribution%20Timeline" width="95%" />
-  </a>
-</p>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:cccccc,100:ffffff&height=3&section=footer" width="100%" /></p>
-
 <!-- ==================== TECH STACK ==================== -->
 
 <h2 align="center">
@@ -124,6 +80,65 @@
 <!-- Skill Icons -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nodejs,express,cs,mongodb,firebase,postgres,mysql,postman,figma,git,github,vercel,netlify,docker,vscode&perline=10&theme=dark" />
+</p>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:cccccc,100:ffffff&height=3&section=footer" width="100%" /></p>
+
+<!-- ==================== PORTFOLIO ==================== -->
+
+<h2 align="center">Portfolio</h2>
+
+<p align="center">
+  <!-- Replace href and image when the portfolio is ready -->
+  <a href="#">
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=220&section=header&text=Building&fontSize=44&fontColor=ffffff&color=0:0b0b0b,100:1a1a1a" width="90%" />
+  </a>
+</p>
+
+<p align="center">Portfolio under construction. Link coming soon.</p>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:cccccc,100:ffffff&height=3&section=footer" width="100%" /></p>
+
+<!-- ==================== GITHUB ANALYTICS ==================== -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" />
+  &nbsp; GitHub Analytics &nbsp;
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" />
+</h2>
+
+<p align="center">
+  <a href="https://github.com/KarlosVelasquez">
+    <img src="https://streak-stats.demolab.com?user=KarlosVelasquez&hide_border=true&background=0d1117&ring=ffffff&fire=cccccc&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=cccccc&sideNums=cccccc&dates=444444&stroke=222222" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/KarlosVelasquez">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarlosVelasquez&bg_color=0d1117&color=888888&line=ffffff&point=cccccc&area=true&area_color=333333&hide_border=true&custom_title=Contribution%20Timeline" width="95%" />
+  </a>
+</p>
+
+<!-- ==================== SNAKE ==================== -->
+
+<h2 align="center">🐍 &nbsp; Contribution Graph</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarlosVelasquez/KarlosVelasquez/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KarlosVelasquez/KarlosVelasquez/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/KarlosVelasquez/KarlosVelasquez/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</p>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:cccccc,100:ffffff&height=3&section=footer" width="100%" /></p>
+
+<!-- ==================== SPOTIFY ==================== -->
+
+<p align="center">
+  <a href="https://open.spotify.com/user/Deko">
+    <img src="https://novatorem-qg6u89gbe-kabe25032002-8791s-projects.vercel.app" alt="Spotify Now Playing" />
+  </a>
 </p>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:cccccc,100:ffffff&height=3&section=footer" width="100%" /></p>
