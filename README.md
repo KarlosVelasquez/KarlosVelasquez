@@ -7,34 +7,32 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a0a,60:111111,100:1a1a1a&height=300&section=header&text=Karlos%20Velasquez&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20AI%20Tools%20Enthusiast&descSize=18&descAlignY=58&descAlign=50&fontAlign=50&descColor=888888" width="100%" />
 </p>
+<!-- ==================== SPOTIFY ==================== -->
+<h2 align="center">🎧 &nbsp; Now Playing</h2>
 
-<!-- ==================== WELCOME ==================== -->
+<p align="center">
+  <a href="https://open.spotify.com/user/Deko">
+    <img src="https://novatorem-qg6u89gbe-kabe25032002-8791s-projects.vercel.app" alt="Spotify Now Playing" />
+  </a>
+</p>
 
-<div align="center">
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=30&duration=3500&pause=1200&color=cccccc&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Crafting+elegant+digital+experiences;Pixel-perfect+interfaces%2C+flawless+code;Where+design+meets+engineering;Building+the+future%2C+one+component+at+a+time" alt="Typing SVG" />
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
-<br/><br/>
+<!-- ==================== SNAKE ==================== -->
 
-<a href="https://github.com/KarlosVelasquez?tab=repositories">
-  <img src="https://img.shields.io/badge/View_My_Work-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:tu@email.com">
-  <img src="https://img.shields.io/badge/Get_In_Touch-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff" />
-</a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
-</a>
-
-</div>
+<h2 align="center">🐍 &nbsp; Contribution Graph</h2>
 
 <br/>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarlosVelasquez/KarlosVelasquez/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KarlosVelasquez/KarlosVelasquez/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/KarlosVelasquez/KarlosVelasquez/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</p>
 
 <!-- ==================== GITHUB ANALYTICS ==================== -->
 
@@ -82,19 +80,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
-<!-- ==================== SNAKE ==================== -->
 
-<h2 align="center">🐍 &nbsp; Contribution Graph</h2>
-
-<br/>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarlosVelasquez/KarlosVelasquez/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KarlosVelasquez/KarlosVelasquez/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/KarlosVelasquez/KarlosVelasquez/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
@@ -184,34 +170,6 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
-<!-- ==================== SPOTIFY ==================== -->
-
-<h2 align="center">🎧 &nbsp; Now Playing</h2>
-
-<br/>
-
-<p align="center">
-  <a href="https://open.spotify.com/user/Deko">
-    <img src="https://novatorem-qg6u89gbe-kabe25032002-8791s-projects.vercel.app" alt="Spotify Now Playing" />
-  </a>
-</p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
-
-
-**Profile**
-
-![Views](https://komarev.com/ghpvc/?username=KarlosVelasquez&style=for-the-badge&color=555555&label=VIEWS)
-
-![Followers](https://img.shields.io/github/followers/KarlosVelasquez?style=for-the-badge&color=555555&labelColor=0d1117&label=FOLLOWERS)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
 <!-- ==================== ADVANCED METRICS ==================== -->
 
@@ -235,32 +193,6 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
-<!-- ==================== CONNECT ==================== -->
-
-<h2 align="center">Let's Connect</h2>
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/KarlosVelasquez">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
-  </a>
-  &nbsp;
-  <a href="mailto:tu@email.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff" />
-  </a>
-  &nbsp;
-  <a href="https://discord.com/">
-    <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=ffffff" />
-  </a>
-</p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
-
 <!-- ==================== QUOTE ==================== -->
 
 <h2 align="center">Quote of the Day</h2>
@@ -272,44 +204,3 @@
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
-
-<!-- ==================== SUPPORT ==================== -->
-
-<h2 align="center">Support My Work</h2>
-
-<br/>
-
-
-<br/>
-
-<!-- ==================== FOOTER ==================== -->
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║                    K A R L O S   V E L A S Q U E Z                ║
-║                                                                   ║
-║       Frontend Developer  •  UI/UX Designer  •  AI Enthusiast     ║
-║                                                                   ║
-║              "Design is intelligence made visible."               ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a0a,60:111111,100:1a1a1a&height=120&section=footer" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&text=Thanks%20for%20visiting&fontSize=14&fontColor=888888&animation=fadeIn&height=35" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KarlosVelasquez&style=flat-square&color=555555&label=Profile+Views" />
-</p>
