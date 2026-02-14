@@ -1,145 +1,92 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  🌌  KARLOS VELASQUEZ — CYBERPUNK FRONTEND DEV PROFILE  🌌  ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+﻿<!-- ═══════════════════════════════════════════════════════════ -->
+<!--        KARLOS VELASQUEZ — DARK ELEGANT PORTFOLIO          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- ==================== MATRIX RAIN / SPACE BACKGROUND ==================== -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=KARLOS%20VELASQUEZ&fontSize=60&fontColor=00ffff&animation=twinkling&desc=⚡%20Frontend%20Developer%20%7C%20Cyberpunk%20Coder%20%7C%20Digital%20Architect%20⚡&descSize=18&descAlignY=75&descAlign=50&fontAlignY=45&stroke=ff00ff&strokeWidth=2" width="100%" />
-</p>
-
-<!-- ==================== MATRIX / CYBER AMBIENCE ==================== -->
+<!-- ==================== HERO BANNER ==================== -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="3px" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a0a,60:111111,100:1a1a1a&height=300&section=header&text=Karlos%20Velasquez&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20AI%20Tools%20Enthusiast&descSize=18&descAlignY=58&descAlign=50&fontAlign=50&descColor=888888" width="100%" />
 </p>
 
-<!-- ==================== GLITCH HERO SECTION ==================== -->
+<!-- ==================== WELCOME ==================== -->
 
 <div align="center">
 
-  <!-- Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%3E+Initializing+Cyberpunk+Interface...;%3E+Loading+Frontend+Arsenal...;%3E+System+Ready.+Welcome+to+the+Grid.;%3E+const+developer+%3D+new+CyberDev()%3B" alt="Typing SVG" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=30&duration=3500&pause=1200&color=cccccc&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Crafting+elegant+digital+experiences;Pixel-perfect+interfaces%2C+flawless+code;Where+design+meets+engineering;Building+the+future%2C+one+component+at+a+time" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://github.com/KarlosVelasquez?tab=repositories">
+  <img src="https://img.shields.io/badge/View_My_Work-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:tu@email.com">
+  <img src="https://img.shields.io/badge/Get_In_Touch-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff" />
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
+</a>
 
 </div>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="3px" />
-</p>
-
-<!-- ==================== HOLOGRAPHIC IDENTITY CARD ==================== -->
-
-<div align="center">
-
-<table>
-<tr>
-<td width="300" align="center">
-
-<!-- Avatar Holográfico -->
-<img src="https://github.com/KarlosVelasquez.png" width="200" style="border-radius: 50%; border: 3px solid #00ffff;" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/-%40KarlosVelasquez-0d1117?style=flat&logo=github&logoColor=00ffff)](https://github.com/KarlosVelasquez)
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
-</td>
-<td width="600" align="left">
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
-```js
-//  ╔═══════════════════════════════════════╗
-//  ║   🔮 CYBERDECK — IDENTITY MODULE     ║
-//  ╚═══════════════════════════════════════╝
-
-const KarlosVelasquez = {
-    pronouns: "He" | "Him",
-    role: "Frontend Developer",
-    location: "🌎 Digital Realm",
-    languages: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
-    frameworks: ["React", "Next.js", "Node.js", "Tailwind CSS"],
-    architecture: ["SPA", "PWA", "Microservices", "JAMStack"],
-    currentFocus: "Building cyberpunk UI experiences",
-    funFact: "I code in dark mode because light attracts bugs 🪲"
-};
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="3px" />
-</p>
-
-<!-- ==================== CYBER STATS DASHBOARD ==================== -->
+<!-- ==================== GITHUB ANALYTICS ==================== -->
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" />
-  ⟨ SYSTEM ANALYTICS ⟩
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" />
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" />
+  &nbsp; GitHub Analytics &nbsp;
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" />
 </h2>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="60%" height="2px" />
-</p>
+<br/>
 
 <p align="center">
   <a href="https://github.com/KarlosVelasquez">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=KarlosVelasquez&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff&text_color=c9d1d9&ring_color=00ffff" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=KarlosVelasquez&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=aaaaaa&ring_color=ffffff" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/KarlosVelasquez">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarlosVelasquez&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&langs_count=8" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarlosVelasquez&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&langs_count=8" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/KarlosVelasquez">
-    <img src="https://streak-stats.demolab.com?user=KarlosVelasquez&theme=radical&hide_border=true&background=0d1117&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=00ffff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
+    <img src="https://streak-stats.demolab.com?user=KarlosVelasquez&hide_border=true&background=0d1117&ring=ffffff&fire=cccccc&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=cccccc&sideNums=cccccc&dates=444444&stroke=222222" />
   </a>
 </p>
 
-<!-- Contribution Graph -->
 <p align="center">
   <a href="https://github.com/KarlosVelasquez">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarlosVelasquez&theme=react-dark&bg_color=0d1117&color=00ffff&line=ff00ff&point=00ffff&area=true&area_color=ff00ff&hide_border=true" width="95%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarlosVelasquez&bg_color=0d1117&color=888888&line=ffffff&point=cccccc&area=true&area_color=333333&hide_border=true&custom_title=Contribution%20Timeline" width="95%" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="3px" />
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
-<!-- ==================== TROPHY CABINET ==================== -->
+<!-- ==================== TROPHIES ==================== -->
 
-<h2 align="center">
-  🏆 ⟨ ACHIEVEMENT UNLOCKED ⟩ 🏆
-</h2>
+<h2 align="center">🏆 &nbsp; Achievements</h2>
+
+<br/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="60%" height="2px" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KarlosVelasquez&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" width="90%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KarlosVelasquez&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="90%" />
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="3px" />
-</p>
+<!-- ==================== SNAKE ==================== -->
 
-<!-- ==================== SNAKE ANIMATION ==================== -->
+<h2 align="center">🐍 &nbsp; Contribution Graph</h2>
 
-<h2 align="center">
-  🐍 ⟨ COMMIT SNAKE — DEVOURING CONTRIBUTIONS ⟩ 🐍
-</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="60%" height="2px" />
-</p>
+<br/>
 
 <p align="center">
   <picture>
@@ -149,180 +96,99 @@ const KarlosVelasquez = {
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="3px" />
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
-<!-- ==================== TECH STACK — CYBER ARSENAL ==================== -->
+<!-- ==================== TECH STACK ==================== -->
 
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" />
-  ⟨ CYBER ARSENAL — TECH STACK ⟩
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" />
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" />
+  &nbsp; Tech Stack &nbsp;
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" />
 </h2>
 
+<br/>
+
+<!-- Frontend Core -->
+<h3 align="center">Frontend Core</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="60%" height="2px" />
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" /></a>
 </p>
 
-<!-- Frontend -->
-<h3 align="center">⚡ Frontend Core</h3>
+<!-- Styling & UI -->
+<h3 align="center">Styling & UI</h3>
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=CC6699" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Styled_Components-000000?style=for-the-badge&logo=styledcomponents&logoColor=DB7093" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=ffffff" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=7952B3" /></a>
 </p>
 
-<!-- Styling -->
-<h3 align="center">🎨 Styling & UI</h3>
+<!-- Backend & Tools -->
+<h3 align="center">Backend & Tools</h3>
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Sass-0d1117?style=for-the-badge&logo=sass&logoColor=CC6699" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Styled_Components-0d1117?style=for-the-badge&logo=styledcomponents&logoColor=DB7093" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Framer_Motion-0d1117?style=for-the-badge&logo=framer&logoColor=0055FF" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffffff" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" /></a>
 </p>
 
-<!-- Backend / Tools -->
-<h3 align="center">🛠️ Backend & Tools</h3>
+<!-- UI/UX Design -->
+<h3 align="center">UI/UX Design</h3>
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Adobe_XD-000000?style=for-the-badge&logo=adobexd&logoColor=FF61F6" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=00C4CC" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Storybook-000000?style=for-the-badge&logo=storybook&logoColor=FF4785" /></a>
 </p>
 
-<!-- DevOps / Platforms -->
-<h3 align="center">☁️ DevOps & Platforms</h3>
+<!-- AI Tools -->
+<h3 align="center">AI Tools & Productivity</h3>
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Netlify-0d1117?style=for-the-badge&logo=netlify&logoColor=00C7B7" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=74aa9c" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=ffffff" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge&logo=anthropic&logoColor=d4a574" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logoColor=ffffff" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=ffffff" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/V0.dev-000000?style=for-the-badge&logo=vercel&logoColor=ffffff" /></a>
 </p>
 
-<!-- Skill Bars -->
+<!-- DevOps & Platforms -->
+<h3 align="center">DevOps & Platforms</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,sass,nodejs,express,python,mongodb,firebase,postgres,git,github,vercel,docker,vscode,figma&perline=10" />
+  <a href="#"><img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=ffffff" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" /></a>
 </p>
 
+<br/>
+
+<!-- Skill Icons -->
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="3px" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,sass,nodejs,express,python,mongodb,firebase,postgres,git,github,vercel,docker,vscode,figma&perline=10&theme=dark" />
 </p>
 
-<!-- ==================== FEATURED PROJECTS ==================== -->
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
-<h2 align="center">
-  🚀 ⟨ FEATURED PROJECTS — CYBER BUILDS ⟩ 🚀
-</h2>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="60%" height="2px" />
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
-<div align="center">
+<!-- ==================== SPOTIFY ==================== -->
 
-<table>
-<tr>
-<td width="50%" align="center">
+<h2 align="center">🎧 &nbsp; Now Playing</h2>
 
-<h3>🌐 Proyecto Alpha</h3>
-
-[![Repo](https://img.shields.io/badge/-Repo-0d1117?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/KarlosVelasquez)
-[![Demo](https://img.shields.io/badge/-Live_Demo-0d1117?style=for-the-badge&logo=vercel&logoColor=ff00ff)](https://github.com/KarlosVelasquez)
-
-```
-⚡ Tech: React | Tailwind | Node.js
-📋 Full-stack web application
-🎯 Status: In Development
-```
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-
-</td>
-<td width="50%" align="center">
-
-<h3>🔮 Proyecto Beta</h3>
-
-[![Repo](https://img.shields.io/badge/-Repo-0d1117?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/KarlosVelasquez)
-[![Demo](https://img.shields.io/badge/-Live_Demo-0d1117?style=for-the-badge&logo=vercel&logoColor=ff00ff)](https://github.com/KarlosVelasquez)
-
-```
-⚡ Tech: Next.js | TypeScript | MongoDB
-📋 Dynamic web platform
-🎯 Status: Production Ready
-```
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-<h3>⚡ Proyecto Gamma</h3>
-
-[![Repo](https://img.shields.io/badge/-Repo-0d1117?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/KarlosVelasquez)
-[![Demo](https://img.shields.io/badge/-Live_Demo-0d1117?style=for-the-badge&logo=vercel&logoColor=ff00ff)](https://github.com/KarlosVelasquez)
-
-```
-⚡ Tech: React | Firebase | Sass
-📋 Real-time application
-🎯 Status: Beta Testing
-```
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-
-</td>
-<td width="50%" align="center">
-
-<h3>🛸 Proyecto Delta</h3>
-
-[![Repo](https://img.shields.io/badge/-Repo-0d1117?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/KarlosVelasquez)
-[![Demo](https://img.shields.io/badge/-Live_Demo-0d1117?style=for-the-badge&logo=vercel&logoColor=ff00ff)](https://github.com/KarlosVelasquez)
-
-```
-⚡ Tech: Next.js | Tailwind | Vercel
-📋 Portfolio / Landing page
-🎯 Status: Live
-```
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="3px" />
-</p>
-
-<!-- ==================== SPOTIFY NOW PLAYING ==================== -->
-
-<h2 align="center">
-  🎧 ⟨ NOW PLAYING — CYBER BEATS ⟩ 🎧
-</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="60%" height="2px" />
-</p>
+<br/>
 
 <p align="center">
   <a href="https://open.spotify.com/user/Deko">
@@ -330,53 +196,14 @@ const KarlosVelasquez = {
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="3px" />
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
-<!-- ==================== WIDGETS DASHBOARD ==================== -->
 
-<h2 align="center">
-  🧩 ⟨ CYBER WIDGETS — LIVE DATA ⟩ 🧩
-</h2>
+**Profile**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="60%" height="2px" />
-</p>
+![Views](https://komarev.com/ghpvc/?username=KarlosVelasquez&style=for-the-badge&color=555555&label=VIEWS)
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-**📍 Location**
-
-```
-🌎 Digital Realm
-⚡ Venezuela
-🏙️ Cyber City
-```
-
-</td>
-<td align="center" width="33%">
-
-**⏰ Dev Hours**
-
-```
-🕐 Timezone: UTC-4
-💻 Coding: 12h+ / day
-🌙 Night Owl Coder
-```
-
-</td>
-<td align="center" width="33%">
-
-**📊 Profile Stats**
-
-![Profile Views](https://komarev.com/ghpvc/?username=KarlosVelasquez&style=for-the-badge&color=00ffff&label=PROFILE+SCANS)
-
-![Followers](https://img.shields.io/github/followers/KarlosVelasquez?style=for-the-badge&color=ff00ff&labelColor=0d1117&label=FOLLOWERS)
+![Followers](https://img.shields.io/github/followers/KarlosVelasquez?style=for-the-badge&color=555555&labelColor=0d1117&label=FOLLOWERS)
 
 </td>
 </tr>
@@ -384,156 +211,105 @@ const KarlosVelasquez = {
 
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="3px" />
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
-<!-- ==================== METRICS & EXTRA STATS ==================== -->
+<!-- ==================== ADVANCED METRICS ==================== -->
 
-<h2 align="center">
-  📡 ⟨ ADVANCED METRICS ⟩ 📡
-</h2>
+<h2 align="center">Advanced Metrics</h2>
+
+<br/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="60%" height="2px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KarlosVelasquez&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&layout=compact" width="60%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KarlosVelasquez&theme=github_dark" width="90%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KarlosVelasquez&theme=radical" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KarlosVelasquez&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KarlosVelasquez&theme=github_dark" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KarlosVelasquez&theme=radical" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KarlosVelasquez&theme=radical" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KarlosVelasquez&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KarlosVelasquez&theme=github_dark&utcOffset=-4" width="45%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KarlosVelasquez&theme=radical" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KarlosVelasquez&theme=radical&utcOffset=-4" width="45%" />
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="3px" />
-</p>
+<!-- ==================== CONNECT ==================== -->
 
-<!-- ==================== CONNECT — CYBER LINKS ==================== -->
+<h2 align="center">Let's Connect</h2>
 
-<h2 align="center">
-  🌐 ⟨ CYBER LINKS — CONNECT WITH ME ⟩ 🌐
-</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="60%" height="2px" />
-</p>
+<br/>
 
 <p align="center">
   <a href="https://github.com/KarlosVelasquez">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ffff" />
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
   </a>
   &nbsp;
   <a href="mailto:tu@email.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff" />
   </a>
   &nbsp;
   <a href="https://discord.com/">
-    <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2" />
+    <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=ffffff" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="3px" />
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
-<!-- ==================== RANDOM DEV QUOTE ==================== -->
+<!-- ==================== QUOTE ==================== -->
 
-<h2 align="center">
-  💬 ⟨ DEV QUOTE OF THE DAY ⟩ 💬
-</h2>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="3px" />
-</p>
-
-<!-- ==================== SUPPORT / BUY ME A COFFEE ==================== -->
-
-<h2 align="center">
-  ☕ ⟨ FUEL THE MACHINE ⟩ ☕
-</h2>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-0d1117?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FFDD00" />
-  </a>
-  &nbsp;
-  <a href="https://ko-fi.com/">
-    <img src="https://img.shields.io/badge/Ko--fi-0d1117?style=for-the-badge&logo=ko-fi&logoColor=FF5E5B" />
-  </a>
-  &nbsp;
-  <a href="https://paypal.me/">
-    <img src="https://img.shields.io/badge/PayPal-0d1117?style=for-the-badge&logo=paypal&logoColor=00457C" />
-  </a>
-</p>
-
-<!-- ==================== TERMINAL FOOTER ==================== -->
+<h2 align="center">Quote of the Day</h2>
 
 <br/>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" alt="Dev Quote" />
+</p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
+
+<!-- ==================== SUPPORT ==================== -->
+
+<h2 align="center">Support My Work</h2>
+
+<br/>
+
+
+<br/>
+
+<!-- ==================== FOOTER ==================== -->
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                        ║
-║   ██╗  ██╗ █████╗ ██████╗ ██╗      ██████╗ ███████╗    ██╗   ██╗      ║
-║   ██║ ██╔╝██╔══██╗██╔══██╗██║     ██╔═══██╗██╔════╝    ██║   ██║      ║
-║   █████╔╝ ███████║██████╔╝██║     ██║   ██║███████╗    ██║   ██║      ║
-║   ██╔═██╗ ██╔══██║██╔══██╗██║     ██║   ██║╚════██║    ╚██╗ ██╔╝      ║
-║   ██║  ██╗██║  ██║██║  ██║███████╗╚██████╔╝███████║     ╚████╔╝       ║
-║   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝      ╚═══╝        ║
-║                                                                        ║
-║          ⚡ Frontend Developer | Cyberpunk Coder | Digital Architect ⚡  ║
-║                                                                        ║
-║          "The code is the weapon. The screen is the battlefield."      ║
-║                                                                        ║
-╚══════════════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║                    K A R L O S   V E L A S Q U E Z                ║
+║                                                                   ║
+║       Frontend Developer  •  UI/UX Designer  •  AI Enthusiast     ║
+║                                                                   ║
+║              "Design is intelligence made visible."               ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 <br/>
 
-<!-- Animated Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,25:8b00ff,50:00ffff,75:8b00ff,100:ff00ff&height=150&section=footer&animation=twinkling" width="100%" />
-</p>
-
-<!-- ==================== VISITOR BADGE ==================== -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&text=⚡%20Thanks%20for%20visiting%20the%20Grid%20⚡&fontSize=16&fontColor=00ffff&animation=fadeIn&height=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a0a,60:111111,100:1a1a1a&height=120&section=footer" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KarlosVelasquez&style=flat-square&color=00ffff&label=GRID+VISITORS" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&text=Thanks%20for%20visiting&fontSize=14&fontColor=888888&animation=fadeIn&height=35" />
 </p>
 
-<!-- EOF — System Shutdown -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KarlosVelasquez&style=flat-square&color=555555&label=Profile+Views" />
+</p>

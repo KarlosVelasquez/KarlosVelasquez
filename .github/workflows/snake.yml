@@ -23,13 +23,12 @@ jobs:
     
     steps:
       - name: Generate Snake Game
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: KarlosVelasquez
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=cyan&color_dots=#00ffff,#ff00ff,#8b00ff,#0d1117
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
