@@ -5,7 +5,7 @@
 <!-- ==================== HERO BANNER ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a0a,60:111111,100:1a1a1a&height=300&section=header&text=Karlos%20Velasquez&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20AI%20Tools%20Enthusiast&descSize=18&descAlignY=58&descAlign=50&fontAlign=50&descColor=888888" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:070707,50:252525,65:070707,100:000000&height=360&section=header&text=Karlos%20Velasquez&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20AI%20Tools%20Enthusiast&descSize=18&descAlignY=58&descAlign=50&fontAlign=50&descColor=888888" width="100%" />
 </p>
 <!-- ==================== SPOTIFY ==================== -->
 <h2 align="center">🎧 &nbsp; Now Playing</h2>
@@ -16,9 +16,7 @@
   </a>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:cccccc,100:ffffff&height=3&section=footer" width="100%" /></p>
 
 <!-- ==================== SNAKE ==================== -->
 
@@ -66,7 +64,7 @@
   </a>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:cccccc,100:ffffff&height=3&section=footer" width="100%" /></p>
 
 <!-- ==================== TROPHIES ==================== -->
 
@@ -75,14 +73,13 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KarlosVelasquez&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" width="90%" />
+  <img src="https://img.shields.io/github/followers/KarlosVelasquez?style=for-the-badge&label=Followers&color=0d1117&labelColor=0d1117&logo=github&logoColor=ffffff" />
+  <img src="https://img.shields.io/github/stars/KarlosVelasquez/KarlosVelasquez?style=for-the-badge&label=Profile%20Stars&color=0d1117&labelColor=0d1117&logo=github&logoColor=ffffff" />
+  <img src="https://img.shields.io/github/last-commit/KarlosVelasquez/KarlosVelasquez?style=for-the-badge&label=Last%20Update&color=0d1117&labelColor=0d1117&logo=git&logoColor=ffffff" />
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:cccccc,100:ffffff&height=3&section=footer" width="100%" /></p>
 
-
-
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
 <!-- ==================== TECH STACK ==================== -->
 
@@ -90,9 +87,6 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" />
   &nbsp; Tech Stack &nbsp;
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" />
-</h2>
-
-<br/>
 
 <!-- Frontend Core -->
 <h3 align="center">Frontend Core</h3>
@@ -165,10 +159,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,sass,nodejs,express,python,mongodb,firebase,postgres,git,github,vercel,docker,vscode,figma&perline=10&theme=dark" />
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
-
-
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:cccccc,100:ffffff&height=3&section=footer" width="100%" /></p>
 
 
 <!-- ==================== ADVANCED METRICS ==================== -->
@@ -191,7 +182,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KarlosVelasquez&theme=github_dark&utcOffset=-4" width="45%" />
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:cccccc,100:ffffff&height=3&section=footer" width="100%" /></p>
 
 <!-- ==================== QUOTE ==================== -->
 
@@ -203,4 +194,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" alt="Dev Quote" />
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:cccccc,100:ffffff&height=3&section=footer" width="100%" /></p>
