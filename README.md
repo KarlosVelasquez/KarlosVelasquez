@@ -5,17 +5,22 @@
 <!-- ==================== HERO BANNER ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:070707,50:252525,65:070707,100:000000&height=280&section=header&text=Karlos%20Velasquez&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20AI%20Tools%20Enthusiast&descSize=16&descAlignY=56&descAlign=50&fontAlign=50&descColor=888888" width="100%" />
+  <img src="assets/background2.png" width="100%" alt="Karlos Velasquez banner" />
+</p>
+<!-- ⌨️ TYPING SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1200&color=7A3CFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;UI%2FUX+Designer;AI+Tools+Enthusiast" alt="Typing animation" />
 </p>
 <!-- ==================== TECH STACK ==================== -->
 
-<h2 align="center">
+<p align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" />
-  &nbsp; Tech Stack &nbsp;
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&text=Tech%20Stack&fontSize=100&fontColor=5228A8&color=0:00000000,100:00000000" width="30%" alt="Tech Stack" />
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" />
+</p>
 
 <!-- Frontend Core -->
-<h3 align="center">Frontend Core</h3>
+<h3 align="center">Frontend </h3>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" /></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" /></a>
@@ -82,11 +87,15 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nodejs,express,cs,mongodb,firebase,postgres,mysql,postman,figma,git,github,vercel,netlify,docker,vscode&perline=10&theme=dark" />
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:cccccc,100:ffffff&height=3&section=footer" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:362182,50:362182,100:362182&height=3&section=footer" width="100%" /></p>
 
 <!-- ==================== PORTFOLIO ==================== -->
 
-<h2 align="center">Portfolio</h2>
+<p align="center">
+  <img src="https://media.tenor.com/thF-4X-idtEAAAAj/hack-hacker.gif" width="50" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&text=Portfolio&fontSize=100&fontColor=5228A8&color=0:00000000,100:00000000" width="30%" alt="Portfolio" />
+  <img src="https://media.tenor.com/thF-4X-idtEAAAAj/hack-hacker.gif" width="50" />
+</p>
 
 <p align="center">
   <!-- Replace href and image when the portfolio is ready -->
@@ -97,15 +106,15 @@
 
 <p align="center">Portfolio under construction. Link coming soon.</p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:cccccc,100:ffffff&height=3&section=footer" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:362182,50:362182,100:362182&height=3&section=footer" width="100%" /></p>
 
 <!-- ==================== GITHUB ANALYTICS ==================== -->
 
-<h2 align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" />
-  &nbsp; GitHub Analytics &nbsp;
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&text=GitHub%20Analytics&fontSize=100&fontColor=5228A8&color=0:00000000,100:00000000" width="30%" alt="GitHub Analytics" />
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" />
-</h2>
+</p>
 
 <p align="center">
   <a href="https://github.com/KarlosVelasquez">
@@ -121,7 +130,11 @@
 
 <!-- ==================== SNAKE ==================== -->
 
-<h2 align="center">🐍 &nbsp; Contribution Graph</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&text=Contribution&fontSize=100&fontColor=5228A8&color=0:00000000,100:00000000" width="30%" alt="Contribution" />
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" />
+</p>
 
 <p align="center">
   <picture>
@@ -131,7 +144,7 @@
   </picture>
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:cccccc,100:ffffff&height=3&section=footer" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:362182,50:362182,100:362182&height=3&section=footer" width="100%" /></p>
 
 <!-- ==================== SPOTIFY ==================== -->
 
@@ -141,12 +154,16 @@
   </a>
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:cccccc,100:ffffff&height=3&section=footer" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:362182,50:362182,100:362182&height=3&section=footer" width="100%" /></p>
 
 
 <!-- ==================== ADVANCED METRICS ==================== -->
 
-<h2 align="center">Advanced Metrics</h2>
+<p align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&text=Advanced%20Metrics&fontSize=100&fontColor=5228A8&color=0:00000000,100:00000000" width="30%" alt="Advanced Metrics" />
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" />
+</p>
 
 <br/>
 
@@ -164,11 +181,15 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KarlosVelasquez&theme=github_dark&utcOffset=-4" width="45%" />
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:cccccc,100:ffffff&height=3&section=footer" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:362182,50:362182,100:362182&height=3&section=footer" width="100%" /></p>
 
 <!-- ==================== QUOTE ==================== -->
 
-<h2 align="center">Quote of the Day</h2>
+<p align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&text=Quote%20of%20the%20Day&fontSize=100&fontColor=5228A8&color=0:00000000,100:00000000" width="30%" alt="Quote of the Day" />
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" />
+</p>
 
 <br/>
 
@@ -176,4 +197,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" alt="Dev Quote" />
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:cccccc,100:ffffff&height=3&section=footer" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:362182,50:362182,100:362182&height=3&section=footer" width="100%" /></p>
